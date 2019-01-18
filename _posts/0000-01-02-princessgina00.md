@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+"If you follow all the rules, you'll miss all the fun."
